@@ -1,0 +1,39 @@
+    h1,h2{
+        color: #E8A2A2;
+    }
+    p{
+        color: #E3E3E3;
+    }
+    input{
+        text-align: center;
+    } 
+    body{
+        text-align: center;
+        background-color: white;
+        
+    
+    }
+
+    .container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color:#000000;
+        padding: auto;
+        border-radius: 10px;
+        
+
+    }
+    input{
+        text-transform: uppercase;
+    }
+    button{
+        height: 30px;
+        width: 100%;
+        color: #634646;
+        background-color: #E8A2A2;
+        border: none;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+
+    }    
