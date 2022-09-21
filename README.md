@@ -14,3 +14,11 @@ Um algarismo não pode ser repetido lado a lado por mais de três vezes. Assim, 
 A letra I é utilizada somente antes do V e do X, por exemplo: IV = 4; IX = 9;
 A letra X é utilizada somente antes do L e do C, por exemplo: XL = 40; XC = 90;
 A letra C é utilizada somente antes do D e do M, por exemplo, CD = 400; CM = 900.
+
+
+
+Tarefa 2. fazer um contador que não aceita valores negativos. 
+
+- Botão de adicionar no contador
+- Botão de diminuir no contador (Mostrando mensagem de erro caso fique negativo)
+- Resetar contador;

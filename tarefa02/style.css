@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.box {
+    text-align: center;
+    height: 400px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+}
+
+
+#numero {
+    font-size: 30px;
+}
+
+.botão {
+    height: 40px;
+    width: 50px;
+    border-radius: 6px;
+    margin: 20px;
+}
